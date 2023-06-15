@@ -1,0 +1,16 @@
+.chichi-box, .box-1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid salmon;
+}
+.chichi-box{
+    background-color: aquamarine;
+}
+.box-1{
+    background-color: brown;
+    /* transform: scale(0.45); */
+    transform: rotate(45deg) scale(0.4);
+}
+   .yellow:hover{
+    transform: rotate(-45deg);
+   }

@@ -1,0 +1,7 @@
+.mega-box{
+    height: 400px;
+    width: 500px;
+    border: 2px solid rebeccapurple;
+    overflow: hidden;
+    overflow-y: scroll;
+}
